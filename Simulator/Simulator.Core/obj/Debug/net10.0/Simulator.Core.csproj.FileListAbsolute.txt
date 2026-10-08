@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\bin\Debug\net10.0\Simulator.Core.exe
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\bin\Debug\net10.0\Simulator.Core.deps.json
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\bin\Debug\net10.0\Simulator.Core.runtimeconfig.json
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\bin\Debug\net10.0\Simulator.Core.dll
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\bin\Debug\net10.0\Simulator.Core.pdb
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulator.Core.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulator.Core.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulator.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulator.Core.dll
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\refint\Simulator.Core.dll
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulator.Core.pdb
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulator.Core.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\ref\Simulator.Core.dll
+C:\Users\Kacper\source\repos\Simulator\Simulator.Core\obj\Debug\net10.0\Simulato.B528F288.Up2Date
